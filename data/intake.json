@@ -1,0 +1,13 @@
+{
+  "customer": {
+    "name": "Maria Klein",
+    "company": "Alpenbau GmbH",
+    "phone": "+41 79 555 22 11",
+    "email": "maria.klein@example.com",
+    "address": "Talstrasse 12, 8001 Zürich"
+  },
+  "description": "Need scaffolding for facade cleaning and small roof touch-up, tight alley access.",
+  "site": {
+    "difficultAccess": true
+  }
+}

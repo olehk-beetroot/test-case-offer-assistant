@@ -1,0 +1,1151 @@
+{
+    "trades": [
+        {
+            "code": "0000",
+            "name_de": "Einrichten der Baustelle",
+            "name_en": "Construction site setup",
+            "positions": [
+                {
+                    "position_number": 1,
+                    "short_name_de": "Material & Werkzeug anliefern",
+                    "short_name_en": "Deliver materials and tools",
+                    "unit": "pauschal",
+                    "description_de": "Anlieferung und Lagerung von Material und Werkzeug.",
+                    "description_en": "Delivering and storing materials and tools.",
+                    "hero": false
+                },
+                {
+                    "position_number": 2,
+                    "short_name_de": "Zugang sichern",
+                    "short_name_en": "Secure access",
+                    "unit": "Stk.",
+                    "description_de": "Absicherung des Baustellenzugangs mit Zaun und Warnschildern.",
+                    "description_en": "Securing the construction site entrance with fencing and warning signs.",
+                    "hero": false
+                },
+                {
+                    "position_number": 3,
+                    "short_name_de": "Strom-/Wasseranschluss bereitstellen",
+                    "short_name_en": "Provide power and water connections",
+                    "unit": "h",
+                    "description_de": "Einrichtung von Strom- und Wasseranschlüssen.",
+                    "description_en": "Installing temporary power and water connections.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4,
+                    "short_name_de": "Entsorgungscontainer aufstellen",
+                    "short_name_en": "Set up waste containers",
+                    "unit": "Stk.",
+                    "description_de": "Bereitstellung von Containern zur Abfallentsorgung.",
+                    "description_en": "Providing containers for waste disposal.",
+                    "hero": false
+                },
+                {
+                    "position_number": 5,
+                    "short_name_de": "Anfahrt",
+                    "short_name_en": "Travel to the site",
+                    "unit": "km",
+                    "description_de": "Anfahrt zur Baustelle",
+                    "description_en": "Travel to the construction site.",
+                    "hero": false
+                },
+                {
+                    "position_number": 6,
+                    "short_name_de": "Treppen schützen mit Vlies & OSB",
+                    "short_name_en": "Protect stairs with fleece and OSB",
+                    "unit": "Stk.",
+                    "description_de": "Vorbereitung der Baustelle",
+                    "description_en": "Protecting stairs with fleece and OSB boards.",
+                    "hero": false
+                },
+                {
+                    "position_number": 7,
+                    "short_name_de": "Einrichtung Halteverbotszone",
+                    "short_name_en": "Set up no-parking zone",
+                    "unit": "Stk.",
+                    "description_de": "Einrichtung der Halteverbotszone für Erreichbarkeit der Baustelle",
+                    "description_en": "Establishing a no-parking zone to keep the site accessible.",
+                    "hero": false
+                },
+                {
+                    "position_number": 8,
+                    "short_name_de": "Baustelleneinrichtung (klein)",
+                    "short_name_en": "Small site setup",
+                    "unit": "Stk.",
+                    "description_de": "Baustelle inkl. Kleinmaschinen einrichten und vorhalten",
+                    "description_en": "Setting up and maintaining the site, including small machinery.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "0100",
+            "name_de": "Beenden der Baustelle",
+            "name_en": "Construction site close-out",
+            "positions": [
+                {
+                    "position_number": 100,
+                    "short_name_de": "Restmaterial entfernen",
+                    "short_name_en": "Remove leftover materials",
+                    "unit": "h",
+                    "description_de": "Entfernen von Restmaterial und Werkzeug.",
+                    "description_en": "Removing remaining materials and tools.",
+                    "hero": false
+                },
+                {
+                    "position_number": 101,
+                    "short_name_de": "Arbeitsbereiche reinigen",
+                    "short_name_en": "Clean work areas",
+                    "unit": "h",
+                    "description_de": "Säuberung der gesamten Baustelle.",
+                    "description_en": "Cleaning the entire construction site.",
+                    "hero": false
+                },
+                {
+                    "position_number": 102,
+                    "short_name_de": "Abschließende Kontrolle",
+                    "short_name_en": "Final inspection",
+                    "unit": "h",
+                    "description_de": "Durchführung der Endkontrolle aller Arbeiten.",
+                    "description_en": "Performing the final inspection of all work.",
+                    "hero": false
+                },
+                {
+                    "position_number": 103,
+                    "short_name_de": "Fotos & Abschlussdokumentation",
+                    "short_name_en": "Photo and completion documentation",
+                    "unit": "h",
+                    "description_de": "Fotodokumentation und Abschlussbericht erstellen.",
+                    "description_en": "Creating photo documentation and the final report.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "0200",
+            "name_de": "Entsorgung",
+            "name_en": "Disposal",
+            "positions": [
+                {
+                    "position_number": 200,
+                    "short_name_de": "Schutt sortieren",
+                    "short_name_en": "Sort debris",
+                    "unit": "m³",
+                    "description_de": "Trennung von Bauschutt und Recyclingmaterial.",
+                    "description_en": "Separating construction debris and recyclable materials.",
+                    "hero": false
+                },
+                {
+                    "position_number": 201,
+                    "short_name_de": "Container füllen",
+                    "short_name_en": "Fill containers",
+                    "unit": "m³",
+                    "description_de": "Füllen der Container mit Bauschutt.",
+                    "description_en": "Filling containers with construction debris.",
+                    "hero": false
+                },
+                {
+                    "position_number": 202,
+                    "short_name_de": "Transport organisieren",
+                    "short_name_en": "Organize transport",
+                    "unit": "Stk.",
+                    "description_de": "Transport der Container zur Deponie.",
+                    "description_en": "Arranging transport of containers to the landfill.",
+                    "hero": false
+                },
+                {
+                    "position_number": 203,
+                    "short_name_de": "Entsorgungsnachweis",
+                    "short_name_en": "Disposal certificate",
+                    "unit": "Stk.",
+                    "description_de": "Aufbewahrung von Waagenbons und Lieferscheinen.",
+                    "description_en": "Keeping weight slips and delivery notes.",
+                    "hero": false
+                },
+                {
+                    "position_number": 204,
+                    "short_name_de": "Kennzeichnen & sichern",
+                    "short_name_en": "Label and secure materials",
+                    "unit": "m³",
+                    "description_de": "Kennzeichnung und sichere Lagerung der Gefahrstoffe.",
+                    "description_en": "Labelling and safely storing hazardous materials.",
+                    "hero": false
+                },
+                {
+                    "position_number": 205,
+                    "short_name_de": "Übergabe an Entsorger",
+                    "short_name_en": "Hand over to disposal contractor",
+                    "unit": "Stk.",
+                    "description_de": "Transport und Abgabe bei zertifiziertem Entsorger.",
+                    "description_en": "Transporting and delivering materials to a certified disposal contractor.",
+                    "hero": false
+                },
+                {
+                    "position_number": 206,
+                    "short_name_de": "Belege und Zertifikate",
+                    "short_name_en": "Receipts and certificates",
+                    "unit": "Stk.",
+                    "description_de": "Dokumentation aller Nachweise.",
+                    "description_en": "Documenting all disposal certificates.",
+                    "hero": false
+                },
+                {
+                    "position_number": 207,
+                    "short_name_de": "Entsorgung Bauabfälle (pro Sack)",
+                    "short_name_en": "Dispose of construction waste (per bag)",
+                    "unit": "Sack",
+                    "description_de": "Entsorgung von Bauabfällen  - inkl. Müllsack - Abrechnung erfolgt pro Sack",
+                    "description_en": "Disposing of construction waste, including the bag, billed per bag.",
+                    "hero": false
+                },
+                {
+                    "position_number": 208,
+                    "short_name_de": "Entsorgung Bauschutz bis Z1.1",
+                    "short_name_en": "Dispose of construction protection waste up to Z1.1",
+                    "unit": "to",
+                    "description_de": "Abrechnung erfolgt nach Wiegeschein",
+                    "description_en": "Billing based on weighbridge ticket.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "0300",
+            "name_de": "Zugänglichkeit",
+            "name_en": "Accessibility",
+            "positions": [
+                {
+                    "position_number": 300,
+                    "short_name_de": "Hilfsmittel für erschwerte Zugänglichkeit einsetzen",
+                    "short_name_en": "Use equipment for difficult access",
+                    "unit": "Stk.",
+                    "description_de": "Verwendung von Treppensteiger, Kran oder Seilzug.",
+                    "description_en": "Using stair climbers, cranes, or hoists.",
+                    "hero": false
+                },
+                {
+                    "position_number": 301,
+                    "short_name_de": "Zusatzzeit & Helfer planen",
+                    "short_name_en": "Plan extra time and helpers",
+                    "unit": "h",
+                    "description_de": "Planung zusätzlicher Zeit und Personal.",
+                    "description_en": "Planning additional time and personnel.",
+                    "hero": false
+                },
+                {
+                    "position_number": 303,
+                    "short_name_de": "Zugangswege dokumentieren & kennzeichnen",
+                    "short_name_en": "Document and mark access routes",
+                    "unit": "h",
+                    "description_de": "Fotodokumentation der Zugangswege.",
+                    "description_en": "Documenting access routes with photos and signage.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "0400",
+            "name_de": "Reinigung",
+            "name_en": "Cleaning",
+            "positions": [
+                {
+                    "position_number": "0300",
+                    "short_name_de": "Hilfsmittel für erschwerte Zugänglichkeit einsetzen",
+                    "short_name_en": "Use equipment for difficult access",
+                    "unit": "Stk.",
+                    "description_de": "Verwendung von Treppensteiger, Kran oder Seilzug.",
+                    "description_en": "Using stair climbers, cranes, or hoists.",
+                    "hero": false
+                },
+                {
+                    "position_number": "0301",
+                    "short_name_de": "Zusatzzeit & Helfer planen",
+                    "short_name_en": "Plan extra time and helpers",
+                    "unit": "h",
+                    "description_de": "Planung zusätzlicher Zeit und Personal.",
+                    "description_en": "Planning additional time and personnel.",
+                    "hero": false
+                },
+                {
+                    "position_number": "0303",
+                    "short_name_de": "Zugangswege dokumentieren & kennzeichnen",
+                    "short_name_en": "Document and mark access routes",
+                    "unit": "h",
+                    "description_de": "Fotodokumentation der Zugangswege.",
+                    "description_en": "Documenting access routes with photos and signage.",
+                    "hero": false
+                },
+                {
+                    "position_number": "Positionsnr.",
+                    "short_name_de": "Leistung",
+                    "short_name_en": "Service item",
+                    "unit": "Einheit",
+                    "description_de": "Beschreibung",
+                    "description_en": "Description",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "0900",
+            "name_de": "Dokumentation",
+            "name_en": "Documentation",
+            "positions": [
+                {
+                    "position_number": 900,
+                    "short_name_de": "spezielle Dokumentationsarbeiten",
+                    "short_name_en": "Special documentation tasks",
+                    "unit": "h",
+                    "description_de": "Dokumentation & Beobachtung bei Regenfällen über 2 Wochen (h)",
+                    "description_en": "Documenting and monitoring rainfall over two weeks (hours).",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "0500",
+            "name_de": "Maschinen",
+            "name_en": "Machinery",
+            "positions": [
+                {
+                    "position_number": 500,
+                    "short_name_de": "Kernbohrgerät DUSS",
+                    "short_name_en": "DUSS core drilling machine",
+                    "unit": "h",
+                    "description_de": "nan",
+                    "description_en": "Using the DUSS core drilling machine, billed per hour.",
+                    "hero": true
+                },
+                {
+                    "position_number": 501,
+                    "short_name_de": "Baustaubsauger",
+                    "short_name_en": "Construction vacuum cleaner",
+                    "unit": "h",
+                    "description_de": "nan",
+                    "description_en": "Using the construction vacuum cleaner, billed per hour.",
+                    "hero": true
+                }
+            ]
+        },
+        {
+            "code": "1000",
+            "name_de": "Erdbau",
+            "name_en": "Earthworks",
+            "positions": [
+                {
+                    "position_number": 1000,
+                    "short_name_de": "Aushub Baugrube",
+                    "short_name_en": "Excavate building pit",
+                    "unit": "m³",
+                    "description_de": "Baugrube ausheben, vorgegebene Tiefe einhalten, Boden fachgerecht abtransportieren",
+                    "description_en": "Excavating the building pit to the specified depth and transporting soil for disposal.",
+                    "hero": true
+                },
+                {
+                    "position_number": 1001,
+                    "short_name_de": "Bodenverdichtung",
+                    "short_name_en": "Compact soil",
+                    "unit": "m²",
+                    "description_de": "Boden verdichten, mit Rüttelplatte, gleichmäßige Tragfähigkeit sicherstellen",
+                    "description_en": "Compacting soil with a vibratory plate to ensure uniform load-bearing capacity.",
+                    "hero": true
+                },
+                {
+                    "position_number": 1002,
+                    "short_name_de": "Leitungsgraben ausheben",
+                    "short_name_en": "Excavate service trench",
+                    "unit": "lfm",
+                    "description_de": "Leitungsgraben ausheben, lfm-genau, Wandneigung 45 % berücksichtigen",
+                    "description_en": "Excavating the service trench to the specified length while maintaining a 45% wall slope.",
+                    "hero": true
+                },
+                {
+                    "position_number": 1003,
+                    "short_name_de": "Dränage verlegen",
+                    "short_name_en": "Lay drainage",
+                    "unit": "lfm",
+                    "description_de": "Dränagerohre verlegen, im Erdreich, Gefälle 1 % pro lfm",
+                    "description_en": "Laying drainage pipes in the ground with a 1% slope per metre.",
+                    "hero": true
+                },
+                {
+                    "position_number": 1004,
+                    "short_name_de": "Geländemodellierung",
+                    "short_name_en": "Shape terrain",
+                    "unit": "m²",
+                    "description_de": "Gelände modellieren, planieren und nivellieren, Oberflächenprofil erstellen",
+                    "description_en": "Grading, levelling, and profiling the terrain to create the surface profile.",
+                    "hero": false
+                },
+                {
+                    "position_number": 1005,
+                    "short_name_de": "Leistung: Stunde Erdbau",
+                    "short_name_en": "Labour: earthworks hour",
+                    "unit": "h",
+                    "description_de": "Erdbauarbeiten stundenweise durchführen, flexibel nach Bedarf",
+                    "description_en": "Carrying out earthworks on an hourly basis as required.",
+                    "hero": true
+                },
+                {
+                    "position_number": 1006,
+                    "short_name_de": "Fundamentgraben ausheben",
+                    "short_name_en": "Excavate foundation trench",
+                    "unit": "lfm",
+                    "description_de": "Fundamentgraben ausheben, lfm-genau, Boden für Abdichtung vorbereiten",
+                    "description_en": "Excavating the foundation trench to the specified length and preparing the soil for waterproofing.",
+                    "hero": false
+                },
+                {
+                    "position_number": 1007,
+                    "short_name_de": "Filterkies einbauen",
+                    "short_name_en": "Install filter gravel",
+                    "unit": "m³",
+                    "description_de": "Filterkies einbauen, um Dränage, Körnung 16–32 mm",
+                    "description_en": "Installing filter gravel around the drainage with 16–32 mm aggregate.",
+                    "hero": false
+                },
+                {
+                    "position_number": 1008,
+                    "short_name_de": "Kontrollschacht installieren",
+                    "short_name_en": "Install inspection chamber",
+                    "unit": "stk",
+                    "description_de": "Kontrollschacht montieren, DN 315, anschließen an Dränage",
+                    "description_en": "Installing the inspection chamber DN 315 and connecting it to the drainage.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "2000",
+            "name_de": "Rohbau",
+            "name_en": "Shell construction",
+            "positions": [
+                {
+                    "position_number": 2000,
+                    "short_name_de": "Fundamentbeton C25/30",
+                    "short_name_en": "Cast C25/30 foundation concrete",
+                    "unit": "m³",
+                    "description_de": "Fundamentplatte gießen, C25/30-Beton, 30 cm Stärke",
+                    "description_en": "Casting the foundation slab with C25/30 concrete at a thickness of 30 cm.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2001,
+                    "short_name_de": "Mauerwerksarbeiten",
+                    "short_name_en": "Masonry work",
+                    "unit": "m²",
+                    "description_de": "Mauerwerk errichten, Ziegel oder Kalksandstein, präzise fugen",
+                    "description_en": "Erecting masonry with brick or calcium silicate blocks with precise joints.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2002,
+                    "short_name_de": "Kernbohrung DN 120",
+                    "short_name_en": "Core drilling DN 120",
+                    "unit": "Stk.",
+                    "description_de": "Kernbohrung durchführen, DN 120, Beton bis -25 cm",
+                    "description_en": "Performing DN 120 core drilling through concrete up to 25 cm.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2003,
+                    "short_name_de": "Abtrag eingefallenes Natursteinmauerwerk",
+                    "short_name_en": "Remove collapsed natural stone wall",
+                    "unit": "h",
+                    "description_de": "Natursteinmauerwerk abtragen, beschädigte Segmente entfernen",
+                    "description_en": "Removing collapsed sections of the natural stone wall.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2004,
+                    "short_name_de": "Leistung: Stunde Rohbau",
+                    "short_name_en": "Labour: shell construction hour",
+                    "unit": "h",
+                    "description_de": "Rohbauarbeiten stundenweise durchführen, flexibel nach Bedarf",
+                    "description_en": "Carrying out shell construction work on an hourly basis as required.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2005,
+                    "short_name_de": "Aufstemmarbeiten Beton",
+                    "short_name_en": "Break up concrete",
+                    "unit": "m²",
+                    "description_de": "Aufstemmen des Betons an definierter Fläche",
+                    "description_en": "Breaking out defined areas of concrete.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2006,
+                    "short_name_de": "Beschichtung aufbringen",
+                    "short_name_en": "Apply coating",
+                    "unit": "m²",
+                    "description_de": "Abdichtungsbeschichtung aufbringen, gleichmäßig aufrollen",
+                    "description_en": "Applying waterproofing coating evenly with a roller.",
+                    "hero": false
+                },
+                {
+                    "position_number": 2007,
+                    "short_name_de": "Schutzband verlegen",
+                    "short_name_en": "Lay protection tape",
+                    "unit": "m²",
+                    "description_de": "Schutzband verlegen, passgenau an Stoßfugen anbringen",
+                    "description_en": "Laying protection tape precisely at the joints.",
+                    "hero": false
+                },
+                {
+                    "position_number": 2008,
+                    "short_name_de": "XPS Schutzplatten verlegen",
+                    "short_name_en": "Lay XPS protection boards",
+                    "unit": "m²",
+                    "description_de": "XPS-Platten verlegen, mechanischen Schutz sicherstellen",
+                    "description_en": "Laying XPS boards to ensure mechanical protection.",
+                    "hero": false
+                },
+                {
+                    "position_number": 2009,
+                    "short_name_de": "Bewehrung verlegen",
+                    "short_name_en": "Install reinforcement",
+                    "unit": "kg",
+                    "description_de": "Bewehrung verlegen, Stahlgitter nach Statik, korrosionsgeschützt",
+                    "description_en": "Installing reinforcement steel mesh according to the structural design, corrosion protected.",
+                    "hero": false
+                },
+                {
+                    "position_number": 2010,
+                    "short_name_de": "Stahlträger montage",
+                    "short_name_en": "Install steel beams",
+                    "unit": "Stk.",
+                    "description_de": "Stahlträger montieren, Kran exakt positionieren",
+                    "description_en": "Positioning steel beams accurately with a crane.",
+                    "hero": false
+                },
+                {
+                    "position_number": 2011,
+                    "short_name_de": "Stahlbetondecke einschalen",
+                    "short_name_en": "Form reinforced concrete slab",
+                    "unit": "m²",
+                    "description_de": "Decke einschalen, Schalung montieren, ready für Beton",
+                    "description_en": "Installing formwork for the slab ready for concreting.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "2500",
+            "name_de": "Abdichtung",
+            "name_en": "Waterproofing",
+            "positions": [
+                {
+                    "position_number": 2500,
+                    "short_name_de": "Untergrundvorbereitung",
+                    "short_name_en": "Prepare substrate",
+                    "unit": "m²",
+                    "description_de": "Untergrund reinigen und aufrauhen passend für Beschichtung",
+                    "description_en": "Cleaning and roughening the substrate for coating.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2501,
+                    "short_name_de": "Auffülen des Kernlochs",
+                    "short_name_en": "Fill core hole",
+                    "unit": "m³",
+                    "description_de": "Ausfüllen des Kernlochs mit Kunstharzgebundenen Beton",
+                    "description_en": "Filling the core hole with resin-bound concrete.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2502,
+                    "short_name_de": "Beschichtung aufbringen",
+                    "short_name_en": "Apply coating",
+                    "unit": "m²",
+                    "description_de": "Abdichtungsbeschichtung aufbringen, gleichmäßig aufrollen",
+                    "description_en": "Applying waterproofing coating evenly with a roller.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2503,
+                    "short_name_de": "Schutzband verlegen",
+                    "short_name_en": "Lay protection tape",
+                    "unit": "m²",
+                    "description_de": "Schutzband verlegen, passgenau an Stoßfugen anbringen",
+                    "description_en": "Laying protection tape precisely at the joints.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2504,
+                    "short_name_de": "Perimeterdämmung & Schutzplatten",
+                    "short_name_en": "Install perimeter insulation and protection boards",
+                    "unit": "m²",
+                    "description_de": "XPS-Platten verlegen, mechanischen Schutz sicherstellen",
+                    "description_en": "Installing XPS boards to provide mechanical protection.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2505,
+                    "short_name_de": "Regiearbeiten Abdichtung",
+                    "short_name_en": "Labour: waterproofing hour",
+                    "unit": "h",
+                    "description_de": "Abdichtungsarbeiten stundenweise durchführen, flexibel nach Bedarf",
+                    "description_en": "Carrying out waterproofing works on an hourly basis as required.",
+                    "hero": true
+                },
+                {
+                    "position_number": 2506,
+                    "short_name_de": "Fugebnabdichtung außen",
+                    "short_name_en": "Seal exterior joints",
+                    "unit": "lfm",
+                    "description_de": "Durchführung von Fugendichtungsarbeiten für den Außenbereich",
+                    "description_en": "Performing exterior joint sealing work.",
+                    "hero": true
+                }
+            ]
+        },
+        {
+            "code": "3000",
+            "name_de": "Dacharbeiten",
+            "name_en": "Roofing",
+            "positions": [
+                {
+                    "position_number": 3000,
+                    "short_name_de": "Sparrenlage errichten",
+                    "short_name_en": "Erect rafter assembly",
+                    "unit": "m²",
+                    "description_de": "Aufstellen der Dachkonstruktion.",
+                    "description_en": "Erecting the roof structure.",
+                    "hero": false
+                },
+                {
+                    "position_number": 3001,
+                    "short_name_de": "Dacheindeckung Ziegel",
+                    "short_name_en": "Install tile roofing",
+                    "unit": "m²",
+                    "description_de": "Verlegen von Dachziegeln.",
+                    "description_en": "Installing roof tiles.",
+                    "hero": false
+                },
+                {
+                    "position_number": 3002,
+                    "short_name_de": "Flüssigkunststoffabdichtung",
+                    "short_name_en": "Apply liquid waterproofing",
+                    "unit": "m²",
+                    "description_de": "Aufbringen von Abdichtungsbeschichtung.",
+                    "description_en": "Applying liquid waterproofing.",
+                    "hero": false
+                },
+                {
+                    "position_number": 3003,
+                    "short_name_de": "Dachfenster einbau",
+                    "short_name_en": "Install roof windows",
+                    "unit": "Stk.",
+                    "description_de": "Montage von Dachfenstern.",
+                    "description_en": "Installing roof windows.",
+                    "hero": false
+                },
+                {
+                    "position_number": 3004,
+                    "short_name_de": "Dachrinnen montage",
+                    "short_name_en": "Install gutters",
+                    "unit": "lfm",
+                    "description_de": "Anbringen von Dachrinnen und Fallrohren.",
+                    "description_en": "Installing gutters and downpipes.",
+                    "hero": false
+                },
+                {
+                    "position_number": 3005,
+                    "short_name_de": "Leistung: Stunde Dacharbeiten",
+                    "short_name_en": "Labour: roofing hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing roofing labour on an hourly basis.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "4000",
+            "name_de": "Fassade",
+            "name_en": "Facade",
+            "positions": [
+                {
+                    "position_number": 4000,
+                    "short_name_de": "WDVS montieren",
+                    "short_name_en": "Install ETICS insulation system",
+                    "unit": "m²",
+                    "description_de": "Anbringen von Dämmelementen und Putzträger.",
+                    "description_en": "Installing insulation elements and render carriers.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4001,
+                    "short_name_de": "Putzarbeiten",
+                    "short_name_en": "Plaster work",
+                    "unit": "m²",
+                    "description_de": "Aufbringen von Grund‑ und Oberputz.",
+                    "description_en": "Applying base and finish coats.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4002,
+                    "short_name_de": "Fassadenverkleidung",
+                    "short_name_en": "Install facade cladding",
+                    "unit": "m²",
+                    "description_de": "Montage von Vorhangfassaden oder Verkleidung.",
+                    "description_en": "Installing ventilated facade cladding or panels.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4003,
+                    "short_name_de": "Klinkerarbeiten",
+                    "short_name_en": "Facing brickwork",
+                    "unit": "m²",
+                    "description_de": "Verlegen von Klinkersteinen.",
+                    "description_en": "Laying facing bricks.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4004,
+                    "short_name_de": "Fassadenanstrich",
+                    "short_name_en": "Paint facade",
+                    "unit": "m²",
+                    "description_de": "Lackieren der Fassade.",
+                    "description_en": "Painting the facade.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4005,
+                    "short_name_de": "Leistung: Stunde Fassade",
+                    "short_name_en": "Labour: facade hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing facade work on an hourly basis.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "5000",
+            "name_de": "FensterTüren",
+            "name_en": "Windows and doors",
+            "positions": [
+                {
+                    "position_number": 5000,
+                    "short_name_de": "Fenstermontage inkl. Leibung",
+                    "short_name_en": "Install windows including reveals",
+                    "unit": "Stk.",
+                    "description_de": "Einbau und Abdichtung von Fensterrahmen.",
+                    "description_en": "Installing and sealing window frames.",
+                    "hero": false
+                },
+                {
+                    "position_number": 5001,
+                    "short_name_de": "Türmontage",
+                    "short_name_en": "Install doors",
+                    "unit": "Stk.",
+                    "description_de": "Installation von Türrahmen und -blättern.",
+                    "description_en": "Installing door frames and leaves.",
+                    "hero": false
+                },
+                {
+                    "position_number": 5002,
+                    "short_name_de": "Wetterschutzsystem",
+                    "short_name_en": "Install weather protection system",
+                    "unit": "lfm",
+                    "description_de": "Anbringen von Wetterschutzprofilen.",
+                    "description_en": "Installing weather protection profiles.",
+                    "hero": false
+                },
+                {
+                    "position_number": 5003,
+                    "short_name_de": "Rollladen einbauen",
+                    "short_name_en": "Install roller shutters",
+                    "unit": "Stk.",
+                    "description_de": "Montage von Rollläden inkl. Motor.",
+                    "description_en": "Installing roller shutters including motor.",
+                    "hero": false
+                },
+                {
+                    "position_number": 5004,
+                    "short_name_de": "Schwellenabdichtung",
+                    "short_name_en": "Seal thresholds",
+                    "unit": "lfm",
+                    "description_de": "Abdichtung unter der Türschwelle.",
+                    "description_en": "Sealing beneath the door threshold.",
+                    "hero": false
+                },
+                {
+                    "position_number": 5005,
+                    "short_name_de": "Leistung: Stunde Fenstermontage",
+                    "short_name_en": "Labour: window installation hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing window installation labour on an hourly basis.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "6000",
+            "name_de": "Installation Sanitär  Heiz",
+            "name_en": "Plumbing and heating installation",
+            "positions": [
+                {
+                    "position_number": 6000,
+                    "short_name_de": "Sanitärleitungen verlegen",
+                    "short_name_en": "Install sanitary pipes",
+                    "unit": "lfm",
+                    "description_de": "Verlegung von Kalt‑ und Warmwasserleitungen.",
+                    "description_en": "Installing cold and hot water piping.",
+                    "hero": false
+                },
+                {
+                    "position_number": 6001,
+                    "short_name_de": "Heizkörper montieren",
+                    "short_name_en": "Install radiators",
+                    "unit": "Stk.",
+                    "description_de": "Montage und Anschluss von Heizkörpern.",
+                    "description_en": "Installing and connecting radiators.",
+                    "hero": false
+                },
+                {
+                    "position_number": 6002,
+                    "short_name_de": "Fußbodenheizung einbauen",
+                    "short_name_en": "Install underfloor heating",
+                    "unit": "m²",
+                    "description_de": "Verlegen von Verrohrung und Verteiler.",
+                    "description_en": "Installing pipework and manifolds.",
+                    "hero": false
+                },
+                {
+                    "position_number": 6003,
+                    "short_name_de": "Lüftungsgerät montieren",
+                    "short_name_en": "Install ventilation unit",
+                    "unit": "Stk.",
+                    "description_de": "Installation von Lüftungsanlagen.",
+                    "description_en": "Installing ventilation systems.",
+                    "hero": false
+                },
+                {
+                    "position_number": 6004,
+                    "short_name_de": "Druckprüfung durchführen",
+                    "short_name_en": "Perform pressure test",
+                    "unit": "Prüfung",
+                    "description_de": "Drucktests im Rohrsystem.",
+                    "description_en": "Performing pressure tests on the pipework.",
+                    "hero": false
+                },
+                {
+                    "position_number": 6005,
+                    "short_name_de": "Leistung: Stunde Monteur",
+                    "short_name_en": "Labour: installer hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing installer labour on an hourly basis.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "7000",
+            "name_de": "Installation Elekro",
+            "name_en": "Electrical installation",
+            "positions": [
+                {
+                    "position_number": 7000,
+                    "short_name_de": "Unterverteilung installieren",
+                    "short_name_en": "Install sub-distribution board",
+                    "unit": "Stk.",
+                    "description_de": "Einbau von Unterverteilungen.",
+                    "description_en": "Installing electrical sub-distribution boards.",
+                    "hero": false
+                },
+                {
+                    "position_number": 7001,
+                    "short_name_de": "Steckdosen/Schalter montieren",
+                    "short_name_en": "Install sockets and switches",
+                    "unit": "Stk.",
+                    "description_de": "Montage von Steckdosen und Schaltern.",
+                    "description_en": "Installing sockets and switches.",
+                    "hero": false
+                },
+                {
+                    "position_number": 7002,
+                    "short_name_de": "Beleuchtung installieren",
+                    "short_name_en": "Install lighting",
+                    "unit": "Stk.",
+                    "description_de": "Installation von Leuchten.",
+                    "description_en": "Installing light fittings.",
+                    "hero": false
+                },
+                {
+                    "position_number": 7003,
+                    "short_name_de": "Netzwerkverkabelung verlegen",
+                    "short_name_en": "Install network cabling",
+                    "unit": "lfm",
+                    "description_de": "Verlegen von Datenkabeln.",
+                    "description_en": "Installing data cabling.",
+                    "hero": false
+                },
+                {
+                    "position_number": 7004,
+                    "short_name_de": "Sicherheitszentrale anschließen",
+                    "short_name_en": "Connect security control panel",
+                    "unit": "Stk.",
+                    "description_de": "Anschluss von Sicherheitszentralen.",
+                    "description_en": "Connecting security control panels.",
+                    "hero": false
+                },
+                {
+                    "position_number": 4005,
+                    "short_name_de": "Leistung: Stunde Elektroinstallateur",
+                    "short_name_en": "Labour: electrician hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing electrical installation labour on an hourly basis.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "8000",
+            "name_de": "Trockenbau",
+            "name_en": "Drywall",
+            "positions": [
+                {
+                    "position_number": 8000,
+                    "short_name_de": "Regiearbeiten Trockenbau",
+                    "short_name_en": "Labour: drywall hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing drywall labour on an hourly basis.",
+                    "hero": true
+                },
+                {
+                    "position_number": 8003,
+                    "short_name_de": "Metallständerwände aufbauen",
+                    "short_name_en": "Install metal stud walls",
+                    "unit": "m²",
+                    "description_de": "Errichten von Ständerwänden.",
+                    "description_en": "Erecting metal stud walls.",
+                    "hero": false
+                },
+                {
+                    "position_number": 8004,
+                    "short_name_de": "Gipskarton beplanken",
+                    "short_name_en": "Board with gypsum panels",
+                    "unit": "m²",
+                    "description_de": "Montage von Gipskartonplatten.",
+                    "description_en": "Installing gypsum boards.",
+                    "hero": false
+                },
+                {
+                    "position_number": 8006,
+                    "short_name_de": "Akustikdecke einbauen",
+                    "short_name_en": "Install acoustic ceiling",
+                    "unit": "m²",
+                    "description_de": "Installation von Akustikdecken.",
+                    "description_en": "Installing acoustic ceilings.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "8200",
+            "name_de": "Innenausbau",
+            "name_en": "Interior fit-out",
+            "positions": []
+        },
+        {
+            "code": "8500",
+            "name_de": "Maler",
+            "name_en": "Painting",
+            "positions": [
+                {
+                    "position_number": 8500,
+                    "short_name_de": "Regiearbeiten Maler",
+                    "short_name_en": "Labour: painting hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing painting labour on an hourly basis.",
+                    "hero": true
+                },
+                {
+                    "position_number": 8501,
+                    "short_name_de": "Innenanstrich durchführen",
+                    "short_name_en": "Carry out interior painting",
+                    "unit": "m²",
+                    "description_de": "Lackieren von Wänden und Decken.",
+                    "description_en": "Painting walls and ceilings.",
+                    "hero": true
+                },
+                {
+                    "position_number": 8502,
+                    "short_name_de": "Feuchteraum streichen",
+                    "short_name_en": "Paint wet rooms",
+                    "unit": "m²",
+                    "description_de": "Feuchtraum streichen, feuchtigkeitsresistente Spezialdispersion zweifach rollend aufgetragen.",
+                    "description_en": "Painting wet rooms with moisture-resistant dispersion applied twice.",
+                    "hero": true
+                },
+                {
+                    "position_number": 8503,
+                    "short_name_de": "Spachtelarbeiten",
+                    "short_name_en": "Perform plastering",
+                    "unit": "m²",
+                    "description_de": "Spachtelarbeiten durchführen, Unebenheiten ausgleichen, Kanten sauber gestalten, glatt schleifen.",
+                    "description_en": "Carrying out filling work, levelling irregularities, finishing edges, and sanding smooth.",
+                    "hero": true
+                }
+            ]
+        },
+        {
+            "code": "9000",
+            "name_de": "Boden",
+            "name_en": "Flooring",
+            "positions": [
+                {
+                    "position_number": 9000,
+                    "short_name_de": "Zementestrich verlegen",
+                    "short_name_en": "Install cement screed",
+                    "unit": "m²",
+                    "description_de": "Herstellen einer geschlossenen Estrichfläche.",
+                    "description_en": "Producing a continuous screed surface.",
+                    "hero": false
+                },
+                {
+                    "position_number": 9001,
+                    "short_name_de": "Fliesen verlegen",
+                    "short_name_en": "Lay tiles",
+                    "unit": "m²",
+                    "description_de": "Verlegen von Keramik‑ oder Natursteinfliesen.",
+                    "description_en": "Laying ceramic or natural stone tiles.",
+                    "hero": false
+                },
+                {
+                    "position_number": 9002,
+                    "short_name_de": "Parkett verlegen",
+                    "short_name_en": "Lay parquet",
+                    "unit": "m²",
+                    "description_de": "Montage von Parkett‑ und Laminatboden.",
+                    "description_en": "Installing parquet and laminate flooring.",
+                    "hero": false
+                },
+                {
+                    "position_number": 9003,
+                    "short_name_de": "Industrieboden beschichten",
+                    "short_name_en": "Coat industrial floor",
+                    "unit": "m²",
+                    "description_de": "Aufbringen von Beschichtungen für Industrie.",
+                    "description_en": "Applying industrial floor coatings.",
+                    "hero": false
+                },
+                {
+                    "position_number": 9004,
+                    "short_name_de": "Bodenschleifen und polieren",
+                    "short_name_en": "Grind and polish floors",
+                    "unit": "m²",
+                    "description_de": "Schleifen und Glätten des Untergrunds.",
+                    "description_en": "Grinding and smoothing the subfloor.",
+                    "hero": false
+                },
+                {
+                    "position_number": 9005,
+                    "short_name_de": "Keramikplatte verlegen",
+                    "short_name_en": "Lay ceramic slabs",
+                    "unit": "m²",
+                    "description_de": "Einbau von Kermaikplatten auf Stelzlager",
+                    "description_en": "Installing ceramic slabs on pedestals.",
+                    "hero": false
+                },
+                {
+                    "position_number": 9006,
+                    "short_name_de": "Leistung Stunde Bodenverlegen",
+                    "short_name_en": "Labour: flooring hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing flooring installation labour on an hourly basis.",
+                    "hero": false
+                }
+            ]
+        },
+        {
+            "code": "10000",
+            "name_de": "Außenanlage",
+            "name_en": "External works",
+            "positions": [
+                {
+                    "position_number": 10000,
+                    "short_name_de": "Leistung Stunde Gartengestaltung",
+                    "short_name_en": "Labour: landscaping hour",
+                    "unit": "h",
+                    "description_de": "Arbeitsleistung",
+                    "description_en": "Providing landscaping labour on an hourly basis.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10001,
+                    "short_name_de": "Modelliere Ablaufkante mit Kaltasphalt",
+                    "short_name_en": "Shape drainage edge with cold asphalt",
+                    "unit": "m²",
+                    "description_de": "Modellieren der Ablaufkante für Abfluß von Regenwasser in die Straßenkanalisation",
+                    "description_en": "Shaping the drainage edge with cold asphalt to guide rainwater into the street sewer.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10001,
+                    "short_name_de": "Pflasterarbeiten",
+                    "short_name_en": "Paving works",
+                    "unit": "m²",
+                    "description_de": "Verlegen von Pflastersteinen.",
+                    "description_en": "Laying paving stones.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10002,
+                    "short_name_de": "Terrassenbau",
+                    "short_name_en": "Build terrace",
+                    "unit": "m²",
+                    "description_de": "Anlegen von Terrassenflächen.",
+                    "description_en": "Constructing terrace surfaces.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10003,
+                    "short_name_de": "Zaunmontage",
+                    "short_name_en": "Install fencing",
+                    "unit": "lfm",
+                    "description_de": "Aufbau von Zäunen.",
+                    "description_en": "Installing fences.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10004,
+                    "short_name_de": "Wegebau",
+                    "short_name_en": "Construct pathways",
+                    "unit": "m²",
+                    "description_de": "Anlegen von Gehwegen.",
+                    "description_en": "Constructing walkways.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10005,
+                    "short_name_de": "Gartenbepflanzung",
+                    "short_name_en": "Landscape planting",
+                    "unit": "m²",
+                    "description_de": "Pflanzen von Grünflächen.",
+                    "description_en": "Planting green areas.",
+                    "hero": false
+                },
+                {
+                    "position_number": 10006,
+                    "short_name_de": "Garten neu anlegen",
+                    "short_name_en": "Create new garden",
+                    "unit": "m²",
+                    "description_de": "???",
+                    "description_en": "Creating a new garden layout.",
+                    "hero": false
+                }
+            ]
+        }
+    ]
+}
