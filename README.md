@@ -1,8 +1,8 @@
 # Inbound
 
-**Stack**: React 19 + TypeScript 5.9 + Vite 7.2
-**Linter Included**: Yes
-**TestEnv**: Vitest
+- **Stack**: React 19 + TypeScript 5.9 + Vite 7.2
+- **Linter Included**: Yes
+- **TestEnv**: Vitest
 
 ## Requirements
 
