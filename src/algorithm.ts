@@ -25,12 +25,13 @@ const buildWhy = (
   boosted: number
 ): string => {
   let keywordPart: string;
+  console.log(keywordSet, tokens);
   if (overlapCount > 0) {
     keywordPart = `keywords matched: ${tokens
       .filter((t) => keywordSet.has(t))
       .join(', ')}`;
   } else {
-    keywordPart = 'few direct keyword matches';
+    keywordPart = 'No keywords matched';
   }
 
   let boostPart: string;
