@@ -25,7 +25,7 @@ const buildWhy = (
   boosted: number
 ): string => {
   let keywordPart: string;
-  console.log(keywordSet, tokens);
+
   if (overlapCount > 0) {
     keywordPart = `keywords matched: ${tokens
       .filter((t) => keywordSet.has(t))
@@ -54,6 +54,7 @@ export const matchCatalogue = (
   catalogue: CatalogueItem[]
 ): MatchResult[] => {
   const tokens = tokenize(intake.description);
+  console.log('tokens', tokens, catalogue);
   const tokenSet = new Set(tokens);
 
   const fuse = new Fuse(catalogue, {
